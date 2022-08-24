@@ -1,6 +1,5 @@
 //constructor
 
-
 //inst classes//
 
 const ft = new Fetch();
@@ -23,8 +22,10 @@ button.addEventListener("click", (e) => {
       ui.saveToLS(data);
     })
     .catch((e) => {
-      let text =
-        "Location doesn't exist! Please try again and check if the location does exist!<a href=https://geographyfieldwork.com/WorldCapitalCities.htm target=_blank>Please check the locations first!</a>";
+      let text = `
+      <div class="card mx-auto mt-5" style="width: 50rem;">
+              <div class="card-body justify-content-center">
+<h3>Location doesn't exist! Please try again and check if the location does exist! <a href=https://geographyfieldwork.com/WorldCapitalCities.htm target=_blank>Please check the countries and locations here.</a></h3>`;
       document.getElementById("content").innerHTML = text;
     });
 });
