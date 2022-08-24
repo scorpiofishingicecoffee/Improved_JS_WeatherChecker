@@ -1,0 +1,10 @@
+{
+          "Name of the project":"Weather Checker",
+          "Was name of the project":"Phil Da Air",
+          "Why changed the name?":"It's just ugly and need something different",
+          "What does it do?":"It checks weather",
+          "Did you use any bootstraps?": "Yes. I used template bootstrap from the bootswatch.",
+          "Resources": "Located in RESOURCES FOLDER",
+          "Languages used to write the website": "Javascript, HTML"
+
+}
