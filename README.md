@@ -2,8 +2,6 @@
 
 -----------------------------
 
-Please right click mouse then enter open in new tab as the target attribute does not work here
-
 -------------
 
 # Resources
