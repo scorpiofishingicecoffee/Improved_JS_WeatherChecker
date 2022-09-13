@@ -8,10 +8,13 @@ Please right click mouse then enter open in new tab as the target attribute does
 
 # Resources
 
-https://www.javascripttutorial.net/
-https://academyxi.instructure.com/courses/161/pages/curriculum-topics?module_item_id=22174
-https://www.codecademy.com/learn/introduction-to-javascript
-https://angular.io/
+-https://www.javascripttutorial.net/
+
+-https://academyxi.instructure.com/courses/161/pages/curriculum-topics?module_item_id=22174
+
+-https://www.codecademy.com/learn/introduction-to-javascript
+
+-https://angular.io/
 
 --------------
 # MIT license
