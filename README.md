@@ -2,8 +2,6 @@
 
 -----------------------------
 
--------------
-
 # Resources
 
 -https://www.javascripttutorial.net/
