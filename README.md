@@ -31,13 +31,22 @@ https://angular.io/
 # Contributor's guide
 
 -Make sure you have your code editor or vsc downloaded
+
 -Download the repo to your system device. Make sure you're using a computer or laptop.
+
 -Locate the folder directory.
+
 -Make sure to unzip the folder.
+
 -Then open the folder with vsc.
+
 -Within vsc. Download "Open in Browser Extension"
+
 Note: You'll find 4 square boxes under run and debug. That's the extension downloader.
+
 -After the "Open in Browser Extension" has been downloaded. Locate the src folder within the directory folder.
+
 -Click on the html file within src folder.
+
 -Right click on the html file with your mouse and click open in browser or click Alt + B. 
 
