@@ -1,6 +1,11 @@
 # Improved_JS_WeatherChecker
 
 --------------
+<h1> Description </h1>
+
+A repo for a javascript and html file which fetches api data from a openweathermap.
+--------------
+
 # MIT license
 <a href="https://github.com/scorpiofishingicecoffee/Improved_JS_WeatherChecker/blob/cdc7499fa5c0abd361dabb5836d6035aa3346c19/LICENSE"> MIT LICENSE </a>
 
