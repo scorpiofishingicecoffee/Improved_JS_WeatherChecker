@@ -1,17 +1,5 @@
 # Improved_JS_WeatherChecker
 
------------------------------
-
-# Resources
-
--https://www.javascripttutorial.net/
-
--https://academyxi.instructure.com/courses/161/pages/curriculum-topics?module_item_id=22174
-
--https://www.codecademy.com/learn/introduction-to-javascript
-
--https://angular.io/
-
 --------------
 # MIT license
 <a href="https://github.com/scorpiofishingicecoffee/Improved_JS_WeatherChecker/blob/cdc7499fa5c0abd361dabb5836d6035aa3346c19/LICENSE"> MIT LICENSE </a>
@@ -44,4 +32,18 @@ Note: You'll find 4 square boxes under run and debug. That's the extension downl
 -Click on the html file within src folder.
 
 -Right click on the html file with your mouse and click open in browser or click Alt + B. 
+
+-----------------------------
+
+# Resources
+
+-https://www.javascripttutorial.net/
+
+-https://academyxi.instructure.com/courses/161/pages/curriculum-topics?module_item_id=22174
+
+-https://www.codecademy.com/learn/introduction-to-javascript
+
+-https://angular.io/
+
+-https://www.udemy.com/
 
