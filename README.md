@@ -39,6 +39,18 @@ Note: You'll find 4 square boxes under run and debug. That's the extension downl
 
 -----------------------------
 
+# This is what it should look like after you click open in browser
+
+![Screenshot (68)](https://user-images.githubusercontent.com/105265074/191733440-504a8706-1902-4136-8516-dea53efcc719.png)
+
+--------------------------
+
+# Example of data you can fetch from the api are placed within index.json
+
+![Screenshot (67)](https://user-images.githubusercontent.com/105265074/191733256-b28c7e40-0574-455c-99c4-a87485156bc5.png)
+
+----------------
+
 # Resources
 
 -https://www.javascripttutorial.net/
