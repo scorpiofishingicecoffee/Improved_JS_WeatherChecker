@@ -1,6 +1,4 @@
-# Improved_JS_WeatherChecker
 
---------------
 <h1> Description </h1>
 
 A repo for a javascript and html file which fetches api data from a openweathermap.
