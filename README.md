@@ -4,6 +4,7 @@
 <h1> Description </h1>
 
 A repo for a javascript and html file which fetches api data from a openweathermap.
+
 --------------
 
 # MIT license
@@ -13,6 +14,7 @@ A repo for a javascript and html file which fetches api data from a openweatherm
 # Medium links
 
 <a href="https://medium.com/@seriouslydudelma/re-submitted-javascript-proj-1b146c8434a3" target="_blank"> Written blog </a>
+
 ---------------------
 
 # Contributor's guide
