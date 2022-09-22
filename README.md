@@ -7,8 +7,7 @@
 --------------
 # Medium links
 
-<h1><a href="https://medium.com/@seriouslydudelma/re-submitted-javascript-proj-1b146c8434a3" target="_blank"> Written blog </a></h1>
-
+<a href="https://medium.com/@seriouslydudelma/re-submitted-javascript-proj-1b146c8434a3" target="_blank"> Written blog </a>
 ---------------------
 
 # Contributor's guide
