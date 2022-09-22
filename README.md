@@ -9,7 +9,7 @@ A repo for a javascript and html file which fetches api data from a openweatherm
 <a href="https://github.com/scorpiofishingicecoffee/Improved_JS_WeatherChecker/blob/cdc7499fa5c0abd361dabb5836d6035aa3346c19/LICENSE"> MIT LICENSE </a>
 
 --------------
-# Medium links
+# Medium link
 
 <a href="https://medium.com/@seriouslydudelma/re-submitted-javascript-proj-1b146c8434a3" target="_blank"> Written blog </a>
 
