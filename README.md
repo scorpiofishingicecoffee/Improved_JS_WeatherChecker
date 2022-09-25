@@ -43,7 +43,7 @@ Note: You'll find 4 square boxes under run and debug. That's the extension downl
 
 Copy this to your browser:
 
-https://scorpiofishingicecoffee.github.io/Improved_JS_WeatherChecker/
+
 
 # Review of what it looks like
 
